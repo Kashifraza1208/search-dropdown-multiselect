@@ -1,3 +1,11 @@
+# Hosted URL - https://65ce3b729607ec09f0cf8a36--steady-dolphin-89a25a.netlify.app/
+
+![Screenshot (619)](https://github.com/Kashifraza1208/search-dropdown-multiselect/assets/60813449/bc990014-9d1c-41d5-b739-b317143c7ca7)
+![Screenshot (618)](https://github.com/Kashifraza1208/search-dropdown-multiselect/assets/60813449/9c1dca99-0d77-4581-8576-c93be9679289)
+![Screenshot (617)](https://github.com/Kashifraza1208/search-dropdown-multiselect/assets/60813449/15a5b9fc-9c46-4ba6-95e8-5be73d7c1bb0)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
