@@ -1,0 +1,56 @@
+.search-container {
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: center;
+  background-color: rgb(231, 231, 231);
+  position: fixed;
+  top: 0%;
+  left: 0;
+}
+
+.form {
+  width: 35vw;
+  margin-top: -20%;
+}
+
+.searchSelect {
+  cursor: pointer;
+}
+
+.heading {
+  text-align: center;
+  font: 800 20px cursive;
+}
+
+.form > div > svg {
+  /* position: absolute; */
+  transform: translateX(-150%);
+  font-size: 1.3vmax;
+  color: rgba(0, 0, 0, 0.623);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  .form {
+    width: 100vw;
+    height: 95vh;
+    margin-left: 15px;
+  }
+
+  .form {
+    padding: 5vmax;
+  }
+
+  .form > div > input {
+    padding: 2.5vmax 5vmax;
+    font: 300 2vmax cursive;
+  }
+
+  .form > div > svg {
+    font-size: 4vmax;
+  }
+}
